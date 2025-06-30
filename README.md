@@ -42,5 +42,4 @@ departments.
 ## 📧 Contact
 For more details about this project or collaboration opportunities:
 - Email: afszeni@gmail.com
-- LinkedIn: [andre-zeni-fs1991](https://www.linkedin.com/in/andre-zeni-
-fs1991)
+- LinkedIn: [andre-zeni-fs1991](https://www.linkedin.com/in/andre-zeni-fs1991)
