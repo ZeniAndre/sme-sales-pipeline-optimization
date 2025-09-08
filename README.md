@@ -37,8 +37,8 @@ decision making
 
 ## 📊 Results & Impact
 - **Revenue Impact**: Managed $200M annual revenue segment
-- **Efficiency Gain**: 25% improvement in pipeline management efficiency
-- **Customer Retention**: 15% increase in customer retention rates
+- **Efficiency Gain**: Improvement in pipeline management efficiency
+- **Customer Retention**: Increase in customer retention rates
 - **Forecasting Accuracy**: 90% accuracy in revenue forecasting models
   
 ## 🔗 Related Experience
